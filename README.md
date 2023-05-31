@@ -7,7 +7,7 @@ My hobbies are: Golf & Soccer.. maybe a little of video games too.
 
 Feel free to reach out to me via email to: guillegarcia0107@gmail.com 
 
-Hope you liek what you see here!
+Hope you like what you see here!
 
 <!--
 **guie01/guie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
